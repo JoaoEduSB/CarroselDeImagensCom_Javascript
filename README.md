@@ -1,4 +1,4 @@
-# CarroselDeImagensCom_Javascript
+# CarrosselDeImagensCom_Javascript
 
 ![Carrossel](https://github.com/JoaoEduSB/CarroselDeImagensCom_Javascript/assets/146045770/54bf96e7-7b14-4849-a926-217a02d47742)
 
